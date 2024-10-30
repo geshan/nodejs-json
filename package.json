@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-json",
+  "version": "1.0.0",
+  "description": "A demo repo for a blog post to read data from json file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
